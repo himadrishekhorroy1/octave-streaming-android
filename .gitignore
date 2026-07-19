@@ -1,7 +1,11 @@
 node_modules/
 www/
 android/app/build/
+android/build/
 android/.gradle/
 android/local.properties
 .DS_Store
 *.log
+android/app/release.keystore
+android/capacitor-cordova-android-plugins/dummy.jar
+resources/app_icon_new.png
