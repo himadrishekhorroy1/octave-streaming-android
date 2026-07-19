@@ -23,6 +23,12 @@ public class MainActivity extends BridgeActivity {
             }
 
             @Override
+            public boolean shouldOverrideUrlLoading(WebView view, String url) {
+                // Return false to allow WebView to load the URL
+                return false;
+            }
+
+            @Override
             public void onPageFinished(WebView view, String url) {
                 super.onPageFinished(view, url);
             }
