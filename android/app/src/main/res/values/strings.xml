@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Octave</string>
+    <string name="title_activity_main">Octave</string>
+    <string name="package_name">com.octavestreaming.music</string>
+    <string name="custom_url_scheme">com.octavestreaming.music</string>
+</resources>
