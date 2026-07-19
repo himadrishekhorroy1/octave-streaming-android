@@ -3,7 +3,6 @@
   "appName": "Octave",
   "webDir": "www",
   "server": {
-    "url": "https://music.octavestreaming.com/",
-    "cleartext": true
+    "allowNavigation": ["music.octavestreaming.com"]
   }
 }
